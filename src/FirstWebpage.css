@@ -1,4 +1,4 @@
 body        {background-color: #E7F2FE;}
 .default    {padding: 10px; overflow: auto; width: 75%;}
 .pictext    {padding: 10px; overflow: auto; width: 70%;}
-.halfdiv	{display: inline-block; text-align: justify; overflow: auto; width: 65%;}
+.textdiv	{display: inline-block; text-align: justify; overflow: auto; width: 65%;}
